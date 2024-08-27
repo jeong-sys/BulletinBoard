@@ -1,4 +1,4 @@
-# Bulletin Board
+# <div align="center"> 🗒 Bulletin Board 🗒 </div>
 [![code](https://img.shields.io/badge/Code-JAVA-orange)](https://docs.python.org/3/license.html)
 [![DBMS](https://img.shields.io/badge/DBMS-MySQL-blue)](https://www.mysql.com/downloads/)
 > 기본 구조 파악을 위한 게시판 제작
